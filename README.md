@@ -20,4 +20,4 @@ Generates roughly **10%** returns from 2018 to 2020, even though Bitcoin's stock
 
 Quite strong given Bitcoin's price volatility. Able to predict when to go short fairly well.
 
-Still room to improve, particularly in portfolio construction. A low Sharpe ratio suggests intra-day volatility even though it is generally stable long-term. Setting up risk-adjustment measures to protect against assigning stock holdings based on just the raw model output would be beneficial.
+Still room to improve. A low Sharpe ratio suggests intra-day volatility even though it is generally stable long-term. Setting up risk-adjustment measures to protect against assigning stock holdings purely from the model's output would be beneficial.
