@@ -1,5 +1,7 @@
 # Crypto-Neural-Net
 
+Trading results are in **Strategy_Report**
+
 Code logic is in **BTC_ML_Pred_16/**
 
 **research.ipynb:**
@@ -14,6 +16,6 @@ Code logic is in **BTC_ML_Pred_16/**
 - On a stock change, input current data to model
 - Set portfolio holdings based on model's confidence in a binary movement
 
-Gives about **10%** returns from 2018 to 2020. 
+Generates roughly **10%** returns from 2018 to 2020, even though Bitcoin's stock fell during this period.
 
-Quite strong given Bitcoin's price volatility. Limited bias since in this time period, Bitcoin's stock fell.
+Quite strong given Bitcoin's price volatility. Able to predict when to go short fairly well.
