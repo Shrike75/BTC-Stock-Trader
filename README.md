@@ -19,3 +19,5 @@ Code logic is in **BTC_ML_Pred_16/**
 Generates roughly **10%** returns from 2018 to 2020, even though Bitcoin's stock fell during this period.
 
 Quite strong given Bitcoin's price volatility. Able to predict when to go short fairly well.
+
+Still room to improve, particularly in portfolio construction. Low Sharpe Ratio suggests intra-day volatility even though it is generally stable long-term. Taking a more rounded, risk-adjusted approach to setting BTC holdings given the model output would be beneficial.
