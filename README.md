@@ -1,6 +1,6 @@
 # Crypto-Neural-Net
 
-Trading results are in **Strategy_Report**
+Backtest results are in **Strategy_Report**
 
 Code logic is in **BTC_ML_Pred_16/**
 
