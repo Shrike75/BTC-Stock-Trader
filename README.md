@@ -1,4 +1,4 @@
-# Crypto-Neural-Net
+# Stock-Neural-Net
 
 Backtest results are in **Strategy_Report**
 
